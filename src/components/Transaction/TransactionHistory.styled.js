@@ -21,6 +21,7 @@ export const TableItems = styled.tbody`
   width: 100%;
 `;
 
+
 export const TableRow = styled.tr`
   height: 40px;
   text-align: center;
