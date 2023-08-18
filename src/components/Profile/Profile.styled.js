@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 
+
 export const Topic = styled.h2`
   display: flex;
   justify-content: center;
