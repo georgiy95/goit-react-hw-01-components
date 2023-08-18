@@ -11,6 +11,7 @@ export const ProfileCard = styled.div`
   border-top-right-radius: 4px;
 `;
 
+
 export const UserName = styled.h3`
   display: flex;
   justify-content: center;
