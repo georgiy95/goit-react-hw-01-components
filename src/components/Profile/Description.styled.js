@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const ProfileCard = styled.div`
   display: flex;
   flex-direction: column;
-  width: 400px;
+  width: 399px;
   border-top: 1px solid #303030;
   border-left: 1px solid #303030;
   border-right: 1px solid #303030;
