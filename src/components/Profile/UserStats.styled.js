@@ -6,6 +6,7 @@ export const Stats = styled.ul`
   width: 400px;
 `;
 
+
 export const StatsItem = styled.li`
   border: 1px solid #303030;
   border-bottom-left-radius: 4px;
