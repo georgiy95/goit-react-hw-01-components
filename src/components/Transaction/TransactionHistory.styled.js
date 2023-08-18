@@ -8,7 +8,7 @@ export const Transaction = styled.table`
 `;
 
 export const TableHead = styled.thead`
-  background-color: #6fdef4;
+  background-color: #696969;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.36;
