@@ -20,6 +20,7 @@ export const UserStats = ({ stats: { followers, views, likes } }) => {
   );
 };
 
+
 UserStats.propTypes = {
   stats: PropTypes.shape({
     followers: PropTypes.number.isRequired,
